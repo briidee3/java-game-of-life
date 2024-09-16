@@ -1,4 +1,4 @@
-### CS220: Data Structures, Project 1 Example Implementation
+### CS220: Data Structures -- Project 1 Example Implementation
 # Conway's Game of Life
 
 ## General info:

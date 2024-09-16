@@ -1,6 +1,6 @@
 BD 9-2024
-# CS220: Project 1
-## Conway's Game of Life
+### CS220: Data Structures, Project 1 Example Implementation
+# Conway's Game of Life
 
 ## Info:
 - The source code for the program can be found in the `./src` folder.
